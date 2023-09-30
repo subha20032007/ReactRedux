@@ -24,3 +24,4 @@ useEffect(()=>{
 3. create Routes and Route and create path and element
 4. Link to="/filepath" 
 5. if user redirect to single page simple link "/page/:id"
+6. access id=useParams()
