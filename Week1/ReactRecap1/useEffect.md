@@ -20,3 +20,5 @@ useEffect(()=>{
 
 ### React Router Dom 
 1. install react router dom
+2. import BrowserRoute And provide to App =>
+3.create Routes and Route and create path and element
