@@ -25,3 +25,4 @@ useEffect(()=>{
 4. Link to="/filepath" 
 5. if user redirect to single page simple link "/page/:id"
 6. access id=useParams()
+7. id now is a object ={id:1} access id.id
