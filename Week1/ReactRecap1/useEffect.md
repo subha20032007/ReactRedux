@@ -5,3 +5,4 @@ see example
 useEffect(()=>{
     //work for  on mounting
 })
+*with dependency
