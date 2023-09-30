@@ -6,3 +6,6 @@ useEffect(()=>{
     //work for  on mounting
 })
 *with dependency
+useEffect(()=>{
+    //onmounting phase
+},[when this depedency change])
