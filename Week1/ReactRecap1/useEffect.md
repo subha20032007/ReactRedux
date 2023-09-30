@@ -9,3 +9,10 @@ useEffect(()=>{
 useEffect(()=>{
     //onmounting phase
 },[when this depedency change])
+*clean up
+useEffect(()=>{
+    //logic on mounting
+   return ()=>{
+//unmount phase
+    }
+},[dependancy])
