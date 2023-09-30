@@ -27,3 +27,4 @@ useEffect(()=>{
 6. access id=useParams()
 7. id now is a object ={id:1} access id.id
 8. <Navigate to="/path"> and use Navigate redirect to path page
+9. Navigate=useNavigate() it navigate to path by Navigate("/path")
