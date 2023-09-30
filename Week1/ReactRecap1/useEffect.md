@@ -16,3 +16,4 @@ useEffect(()=>{
 //unmount phase
     }
 },[dependancy])
+***clean up work unmount phase and when the arrry of dependency change
