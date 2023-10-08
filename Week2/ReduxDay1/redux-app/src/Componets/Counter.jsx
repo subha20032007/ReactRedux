@@ -4,7 +4,7 @@ import { decAction, incAction } from "../Redux/action"
 import { useState } from "react"
 
 
-//1
+//
 export const Counter=()=>{
 const [count,setCount]=useState(0)
     const {getState,dispatch,subscribe}=store
