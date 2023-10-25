@@ -25,10 +25,6 @@ const Links=[{path:"/",element:"Home"},
 const DIV=styled.div`
   display:flex;
   justify-content: space-evenly;
-    height:50px;
-    
-
-
-
-    
+    height:50px; 
 `
+//11
