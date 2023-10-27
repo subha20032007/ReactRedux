@@ -10,9 +10,9 @@ dispatch(postSuccessAction(res.data))
         dispatch(failuerAction())
     })
 }
-export const getProduct=(dispatch)=>{
+export const getProduct=(paramsObj)=>(dispatch)=>{
     dispatch(requestAction())
-    axios.get(`http://localhost:8080/products`)
+    axios.get(`http://localhost:8080/products`,paramsObj)
     .then((res)=>{
         dispatch(getSuccessAction(res.data))
         // console.log(res)

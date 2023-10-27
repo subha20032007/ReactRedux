@@ -4,7 +4,7 @@ const ProductCard = ({id,name,image,brand,price,category,gender}) => {
   return (
     <div>
        <DIV key={id}>
-            <image src={image}/>
+            <image src={`https://via.placeholder.com/600/24f355`} alt={name}/>
             <h5>{name}</h5>
             <h5>{price}</h5>
             <p>Brand:{brand}</p>

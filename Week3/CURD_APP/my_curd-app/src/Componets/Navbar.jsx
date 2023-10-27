@@ -13,7 +13,7 @@ const Links=[{path:"/",element:"Home"},
         <DIV>
             {
                 Links.map((el,i)=>(
-                   <Link to={el.path}>{el.element}</Link>
+                   <Link key={i} to={el.path}>{el.element}</Link>
                 ))
             }
         </DIV>
@@ -27,4 +27,3 @@ const DIV=styled.div`
   justify-content: space-evenly;
     height:50px; 
 `
-//112345687

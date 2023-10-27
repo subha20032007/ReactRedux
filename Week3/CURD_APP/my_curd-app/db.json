@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "inkkar tshirt",
-      "image": "http://localhost:3000/",
+      "image": "https://placehold.co/600x400/",
       "brand": "inkkar",
       "price": 432424,
       "category": "top-wear",
@@ -11,7 +11,7 @@
     },
     {
       "name": "flipkart SmartBuy",
-      "image": "http://localhost:3000/",
+      "image": "https://placehold.co/600x400/",
       "brand": "flipkart",
       "price": 43242,
       "category": "bottom-wear",
@@ -20,16 +20,16 @@
     },
     {
       "name": "inkkar tshirt",
-      "image": "http://localhost:3000/",
+      "image": "https://placehold.co/600x400/",
       "brand": "inkkar",
       "price": 4644,
       "category": "top-wear",
-      "gender": "male",
+      "gender": "female",
       "id": 3
     },
     {
       "name": "inkkar tshirt",
-      "image": "http://localhost:3000/",
+      "image": "https://placehold.co/600x400/",
       "brand": "inkkar",
       "price": 432424,
       "category": "top-wear",
@@ -38,20 +38,20 @@
     },
     {
       "name": "flipkart SmartBuy",
-      "image": "http://localhost:3000/",
+      "image": "https://placehold.co/600x400/",
       "brand": "flipkart",
       "price": 43242,
       "category": "bottom-wear",
-      "gender": "male",
+      "gender": "female",
       "id": 5
     },
     {
       "name": "inkkar tshirt",
-      "image": "http://localhost:3000/",
+      "image": "https://placehold.co/600x400/",
       "brand": "inkkar",
       "price": 4644,
       "category": "top-wear",
-      "gender": "male",
+      "gender": "kids",
       "id": 6
     }
   ]
